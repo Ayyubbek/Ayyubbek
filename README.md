@@ -6,7 +6,7 @@
   `HTML` • `CSS` • `SASS/LESS` • `JavaScript` • `TypeScript`,`Redux`
 
 - 🌐 Frontend Frameworks & Libraries:  
-  `React.js` • `Redux` • `jQuery` • `TailwindCSS` • `Bootstrap`
+  `React.js` • `Redux` • `jQuery` • `TailwindCSS` • `Bootstrap`• `Next.js` 
 
 - ⚙️ Build Tools:  
   `Gulp.js`
